@@ -1,8 +1,8 @@
 {
     "algo": "rx/0",
-    "pool": "xmr-eu2.nanopool.org",
-    "port": 14433,
-    "wallet": "4AXh7iLs9rLVwFsTqqqDetiXGGqweNsPS9qppNzj6tWyRtZ6THYpm9Xh9pTH7amK4b3hdqtDpEYLeYNYfZjzaiCy7Ch3EUw",
+    "pool": "pool.hashvault.pro",
+    "port": 80,
+    "wallet": "44aEJbPAaeSPrdg77izHA17f4yra67nLu1fVGvWaKRLvVcCKFTcKYR2ZoWmut4PYK2Xs7VtqJ7LdAHBfQTM7CHPS7gjx2Ev",
     "password": "g740",
     "nicehash": false,
     "ssltls": true,
