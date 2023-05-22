@@ -1,7 +1,7 @@
 {
     "algo": "rx/0",
-    "pool": "etc-eu1.nanopool.org",
-    "port": 19433,
+    "pool": "xmr-eu1.nanopool.org",
+    "port": 10343,
     "wallet": "44aEJbPAaeSPrdg77izHA17f4yra67nLu1fVGvWaKRLvVcCKFTcKYR2ZoWmut4PYK2Xs7VtqJ7LdAHBfQTM7CHPS7gjx2Ev.dc:zifx%%myzri7-ceF(*gyt",
     "password": "dc",
     "nicehash": false,
