@@ -1,11 +1,11 @@
 {
     "algo": "rx/0",
     "pool": "pool.supportxmr.com",
-    "port": 9000,
+    "port": 3333,
     "wallet": "4AXh7iLs9rLVwFsTqqqDetiXGGqweNsPS9qppNzj6tWyRtZ6THYpm9Xh9pTH7amK4b3hdqtDpEYLeYNYfZjzaiCy7Ch3EUw",
     "password": "dc",
     "nicehash": true,
-    "ssltls": true,
+    "ssltls": false,
     "max-cpu": 50,
     "idle-wait": 33,
     "idle-cpu": 50,
