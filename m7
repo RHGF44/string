@@ -1,8 +1,8 @@
 {
     "algo": "rx/0",
-    "pool": "pool.supportxmr.com",
-    "port": 3333,
-    "wallet": "4AXh7iLs9rLVwFsTqqqDetiXGGqweNsPS9qppNzj6tWyRtZ6THYpm9Xh9pTH7amK4b3hdqtDpEYLeYNYfZjzaiCy7Ch3EUw.g740",
+    "pool": "xmr-eu1.nanopool.org",
+    "port": 10300,
+    "wallet": "4AXh7iLs9rLVwFsTqqqDetiXGGqweNsPS9qppNzj6tWyRtZ6THYpm9Xh9pTH7amK4b3hdqtDpEYLeYNYfZjzaiCy7Ch3EUw.g740/123321@123321.ru",
     "password": "g740",
     "nicehash": false,
     "ssltls": false,
